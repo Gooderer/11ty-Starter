@@ -1,0 +1,6 @@
+{
+    "name": "Node.js & Nunjucks",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
+    "postCreateCommand": "npm install nunjucks"
+
+}
